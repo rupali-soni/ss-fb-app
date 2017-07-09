@@ -23,5 +23,5 @@ App is a basic example of Fb login, Fb logout and Fb deauth calls
 ## POC
 
 ```
-- Screenshots are attaches in poc directory for reference
+- Screenshots are attached in `poc` directory for reference.
 ```
