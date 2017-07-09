@@ -1,0 +1,8 @@
+{
+    "require": {
+        "facebook/graph-sdk": "^5.5"
+    },
+    "autoload": {
+	    "classmap": ["src/"]
+	 }
+}
